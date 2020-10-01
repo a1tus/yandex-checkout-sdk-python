@@ -111,7 +111,7 @@ setup(
     url="https://github.com/yandex-money/yandex-checkout-sdk-python",
     author="Yandex.Money",
     packages=find_packages('.', ['test']),
-    install_requires=["requests", "uuid", "urllib3", 'distro', 'deprecated'],
+    install_requires=["requests", "urllib3", 'distro', 'deprecated'],
     zip_safe=False,
     license="MIT",
     classifiers=[
