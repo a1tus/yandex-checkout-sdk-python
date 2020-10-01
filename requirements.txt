@@ -1,6 +1,5 @@
 requests
 setuptools
 urllib3
-uuid
 distro
 deprecated
